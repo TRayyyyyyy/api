@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "vt01.ltweb0411_api.Configs.StorageProperties",
+      "sourceType": "vt01.ltweb0411_api.Configs.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "sourceType": "vt01.ltweb0411_api.Configs.StorageProperties"
+    }
+  ],
+  "hints": []
+}
